@@ -26,6 +26,9 @@ display: none;
 	width: 100%;
 	display: inline-flex;
 	overflow-x: auto;
+	-webkit-overflow-y: hidden;
+	-moz-overflow-y: hidden;
+	-o-overflow-y: hidden;
 	overflow-y: hidden;
 }
 .portrait {
